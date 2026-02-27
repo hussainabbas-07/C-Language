@@ -13,6 +13,10 @@ It covers fundamental to intermediate concepts with proper implementations.
 - Structures
 - File Handling
 
+## Mini Projects:
+- Yahtzee dice game
+- Hotel management system
+
 ## Purpose:
 - Strengthen core programming concepts  
 - Improve problem-solving skills  
