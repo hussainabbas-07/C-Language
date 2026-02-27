@@ -1,4 +1,4 @@
-#C Programming Practice 💻
+#C Programming Practice 
 
 This repository contains my C programming practice programs organized topic-wise.  
 It covers fundamental to intermediate concepts with proper implementations.
