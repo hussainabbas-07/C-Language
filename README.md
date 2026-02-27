@@ -18,7 +18,7 @@ It covers fundamental to intermediate concepts with proper implementations.
 - Improve problem-solving skills  
 - Maintain structured and clean code  
 
-## 🚀 Author:
+## Author:
 Hussain Abbas  
 Computer Science Student  
 
